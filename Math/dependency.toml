@@ -1,0 +1,3 @@
+description = "Interpolation, mapping, curves, bezier points and springs"
+dependencies = []
+packages = []

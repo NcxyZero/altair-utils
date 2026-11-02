@@ -1,0 +1,3 @@
+description = "Visual effects: click ripples, confetti and overhead text"
+dependencies = []
+packages = ["Maid"]
